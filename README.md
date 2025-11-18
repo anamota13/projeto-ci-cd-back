@@ -1,4 +1,4 @@
-# Projeto CI/CD - Front-end (FATEC Franca)
+# Projeto CI/CD - Back-end (FATEC Franca)
 
 ## Objetivo
 Demonstrar a Integração Contínua e Entrega Contínua (CI/CD) de um front-end estático (HTML/CSS/JS) consumindo uma API em Node.js. O deploy é automatizado pela Vercel, disparado via GitHub Actions e Tags Semânticas.
