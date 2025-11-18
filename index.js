@@ -20,7 +20,7 @@ const corsOptions = {
 app.use(cors(corsOptions)); 
 
 app.get('/', (req, res) => {
-    res.json({ "mensagem": "API online e integrada com CI/CD - Configuração Restrita de CORS (v1.0.5)!" });
+    res.json({ "mensagem": "API online e integrada com CI/CD - Configuração Restrita de CORS (v1.0.6)!" });
 });
 
 app.listen(port, () => {
